@@ -1,0 +1,56 @@
+/* RESET */
+
+/*nav, div, ul, li, a, article, h1, p {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background: transparent;
+	vertical-align: baseline;
+	text-decoration: none;
+	font: inherit;
+}*/
+
+/* Nav Bar */
+nav {
+	
+}
+
+nav > div {
+	
+}
+
+nav > ul {
+	
+}
+
+nav > ul > li {
+	
+}
+
+nav > ul > li > a {
+	
+}
+
+/* Main */
+body {
+	height: 100%;
+	background: #ADD8E6;
+	font-family: sans-serif;
+}
+
+article {
+	width: 800px;
+	margin: 0 auto;
+	padding: 50px;
+	background: white;
+	border: 1px solid #ccc;
+}
+
+article > h1 {
+	font-weight: bold;
+	font-size: 48px;
+}
+
+article > p {
+	padding-top: 30px;
+}
